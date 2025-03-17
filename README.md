@@ -4,7 +4,7 @@
 ## Project Requirements
 Design should have following features:
 - Battery powered. Battery to be selected by Engineering.
-- 1 x UWB transceiver (suggestion from client: DW-1000-I-TR13).
+- 3 x UWB transceiver (suggestion from client: DW-1000-I-TR13).
 - 3 x antennas (to improve accuracy).
 - USB-C based charging.
 - Suitable Power and Regulation Section.
